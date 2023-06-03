@@ -270,7 +270,7 @@ PLATFORMS
 DEPENDENCIES
   bcrypt
   bootsnap
-  bootstrap-sass (~> 3.4.1)
+  bootstrap-sass
   capybara
   debug
   guard
