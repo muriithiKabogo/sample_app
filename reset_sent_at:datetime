@@ -1,0 +1,2 @@
+      invoke  active_record
+      remove    db/migrate/20230611050121_add_reset_to_users.rb
